@@ -1,4 +1,4 @@
-* In **Sieve Test** it is required to find Particular Diameter of soil sample that pass 10%, 30% and 60% .
+* In **Sieve Analysis Test** it is required to find Particles Diameter of soil sample that pass 10%, 30% and 60% .
 so according to accuracy Shapely provide very good gemoetric calculations for find intersections between lines.
 
 > **Example:**
